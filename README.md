@@ -204,8 +204,8 @@ tn-election-2026/
 
 | Resource | Link | Coverage |
 |----------|------|----------|
-| **ECI Results 2021** | [results.eci.gov.in/ResultAcGenMay2021](https://results.eci.gov.in/) | 234 constituencies |
-| **ECI Results 2026** | [results.eci.gov.in/ResultAcGenMay2026](https://results.eci.gov.in/) | 234 constituencies |
+| **ECI Results 2021** | [results.eci.gov.in/](https://results.eci.gov.in/) | 234 constituencies |
+| **ECI Results 2026** | [results.eci.gov.in/](https://results.eci.gov.in/) | 234 constituencies |
 | **ECI Statistical Reports** | [eci.gov.in/statistical-reports](https://eci.gov.in/statistical-reports) | Official statistics |
 | **Elections Tamil Nadu** | [elections.tn.gov.in](https://elections.tn.gov.in/) | State authority |
 
