@@ -1,7 +1,7 @@
 # 2026 Tamil Nadu Assembly Election Analysis
 ## Data-Driven Electoral Insights | Codebasics Resume Project Challenge
 
-![Dashboard](TN-election-2026-project/images/Dashboard.png)
+![Dashboard](thumbnail.png)
 
 ---
 
