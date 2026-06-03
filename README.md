@@ -27,9 +27,9 @@
 | 📊 Interactive Dashboard | [View Dashboard](http://bit.ly/4ak538j) |
 | 🎞️ Stakeholder Deck | [View Deck](https://bit.ly/3S2Eaj3) |
 | 📘 Final Research Dossier | [View Dossier](https://bit.ly/4vpW2mq) |
-| 📍 Q1 Geographic Story Report | [View Q1 Report](https://bit.ly/3PD2Eif) |
-| 🔁 Q2 Flip Story Report | [View Q2 Report](https://bit.ly/4e4R0ER) |
-| ⚖️ Q6 Margin Story Report | [View Q6 Report](https://bit.ly/4o5tNqM) |
+| 📍 Q1 Geographic Research Report | [View Q1 Report](https://bit.ly/3PD2Eif) |
+| 🔁 Q2 Flip Research  Report | [View Q2 Report](https://bit.ly/4e4R0ER) |
+| ⚖️ Q6 Margin Research  Report | [View Q6 Report](https://bit.ly/4o5tNqM) |
 
 ---
 
@@ -218,9 +218,9 @@ The 2026 Tamil Nadu election was shaped by:
 | Document | Link |
 |---|---|
 | 📘 Final Research Dossier | [View Dossier](https://bit.ly/4vpW2mq) |
-| 📍 Q1 Geographic Story Report | [View Q1 Report](https://bit.ly/3PD2Eif) |
-| 🔁 Q2 Flip Story Report | [View Q2 Report](https://bit.ly/4e4R0ER) |
-| ⚖️ Q6 Margin Story Report | [View Q6 Report](https://bit.ly/4o5tNqM) |
+| 📍 Q1 Geographic Research  Report | [View Q1 Report](https://bit.ly/3PD2Eif) |
+| 🔁 Q2 Flip Research Report | [View Q2 Report](https://bit.ly/4e4R0ER) |
+| ⚖️ Q6 MarginResearch  Report | [View Q6 Report](https://bit.ly/4o5tNqM) |
 | 🎞️ Stakeholder Deck | [View Deck](https://bit.ly/3S2Eaj3) |
 | 📊 Dashboard | [View Dashboard](http://bit.ly/4ak538j) |
 
