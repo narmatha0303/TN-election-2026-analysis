@@ -3,7 +3,7 @@
 # 🗳️ Decoding the 2026 Tamil Nadu Assembly Election  
 ### A Data Storytelling Project for AtliQ Media
 
-<img width="1536" height="1024" alt="Project thumbnail" src="https://github.com/user-attachments/assets/447fe3a1-e55f-482d-95a8-eae2ebf74c5a" />
+<img width="1691" height="930" alt="7a829f86-8cf5-4a59-bc85-5fe4b113f7da" src="https://github.com/user-attachments/assets/8ce87b5b-256a-4d6a-9509-102be633669f" />
 
 <br>
 
