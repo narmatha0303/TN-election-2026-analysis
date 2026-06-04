@@ -15,8 +15,8 @@
 [![Deck](https://img.shields.io/badge/Stakeholder-Deck-BB44CC?style=for-the-badge)](https://bit.ly/3S2Eaj3)
 [![Research](https://img.shields.io/badge/Research-Dossier-4A148C?style=for-the-badge)](https://bit.ly/4vpW2mq)
 [![SQL](https://img.shields.io/badge/SQL-Validated-311B92?style=for-the-badge&logo=mysql&logoColor=white)](#data-validation-framework)
-[![Executive Walkthrough](https://img.shields.io/badge/Executive-Walkthrough-C2185B?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1cBVZYQGQbDDC4ljkbggf9wyPiIlPCaC5/view?usp=sharing)
-![Project Showcase](https://img.shields.io/badge/Project-Showcase-AB47BC?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Executive Walkthrough](https://img.shields.io/badge/Executive-Walkthrough-C2185B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cBVZYQGQbDDC4ljkbggf9wyPiIlPCaC5/view)
+[![Project Showcase](https://img.shields.io/badge/Project-Showcase-AB47BC?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_POST_LINK)
 </div>
 
 
@@ -32,7 +32,8 @@
 | 📍 Q1 Geographic Research Report | [View Q1 Report](https://bit.ly/3PD2Eif) |
 | 🔁 Q2 Flip Research  Report | [View Q2 Report](https://bit.ly/4e4R0ER) |
 | ⚖️ Q6 Margin Research  Report | [View Q6 Report](https://bit.ly/4o5tNqM) |
-
+| 🎥 Executive Walkthrough | [Watch Video](https://drive.google.com/file/d/1cBVZYQGQbDDC4ljkbggf9wyPiIlPCaC5/view) |
+| 📝 LinkedIn Project Showcase | [View Post](YOUR_LINKEDIN_POST_LINK) |
 ---
 
 
@@ -227,7 +228,11 @@ The 2026 Tamil Nadu election was shaped by:
 | ⚖️ Q6 MarginResearch  Report | [View Q6 Report](https://bit.ly/4o5tNqM) |
 | 🎞️ Stakeholder Deck | [View Deck](https://bit.ly/3S2Eaj3) |
 | 📊 Dashboard | [View Dashboard](http://bit.ly/4ak538j) |
+## 🎥 Executive Walkthrough
 
+This video presentation explains the project as a stakeholder pitch for AtliQ Media.
+
+🔗 **Watch Video:** [Executive Walkthrough](https://drive.google.com/file/d/1cBVZYQGQbDDC4ljkbggf9wyPiIlPCaC5/view)
 ---
 
 ## 🧪 Data Sources
