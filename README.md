@@ -15,9 +15,10 @@
 [![Deck](https://img.shields.io/badge/Stakeholder-Deck-BB44CC?style=for-the-badge)](https://bit.ly/3S2Eaj3)
 [![Research](https://img.shields.io/badge/Research-Dossier-4A148C?style=for-the-badge)](https://bit.ly/4vpW2mq)
 [![SQL](https://img.shields.io/badge/SQL-Validated-311B92?style=for-the-badge&logo=mysql&logoColor=white)](#data-validation-framework)
+[![Executive Walkthrough](https://img.shields.io/badge/Executive-Walkthrough-C2185B?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK)
 
+[![Project Showcase](https://img.shields.io/badge/Project-Showcase-AB47BC?style=for-the-badge&logo=linkedin&logoColor=white)]
 </div>
-
 ---
 
 ## 📌 Project Links
@@ -32,6 +33,8 @@
 | ⚖️ Q6 Margin Research  Report | [View Q6 Report](https://bit.ly/4o5tNqM) |
 
 ---
+
+
 
 ## 🎯 Project Objective
 
